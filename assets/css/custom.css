@@ -1,0 +1,17 @@
+.archive__item-title a:hover {
+    color: darkgrey;
+    outline: 0;
+}
+
+.archive__item-title a:active {
+    color: darkgrey;
+    outline: 0;
+}
+
+.archive__item-title a:visited {
+    color: darkgrey;
+}
+
+.archive__item-title a {
+    color: darksalmon;
+}
